@@ -5,5 +5,5 @@
 ## 6. 출처
 
 - 수집 대상일: 2026-05-08
-- 보고서 생성일시: 2026-05-10 19:22 KST
+- 보고서 생성일시: 2026-05-10 19:23 KST
 - 네이버증권 산업분석 페이지: https://finance.naver.com/research/industry_list.naver
