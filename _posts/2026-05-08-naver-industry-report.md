@@ -12,17 +12,17 @@
 
 ## 2. 전일 산업분석 리포트 목록
 
-| No. | 리포트 제목 | 증권사 | 게시일 | 원문 링크 |
+| No. | 산업 분야 | 리포트 제목 | 증권사 | 원문 링크 |
 |---|---|---|---|---|
-| 1 | 5월: 계속되는 중동 재건 테마 | 하나증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44463&page=1) |
-| 2 | PGSA와 해협 개방의 간극 | 하나증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44462&page=1) |
-| 3 | 신한 자동차/철강금속 Weekly(2026.05.08) | 신한투자증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44461&page=1) |
-| 4 | 현대차/기아 4월 글로벌 판매 | 유진투자증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44460&page=1) |
-| 5 | 안녕하세요 데일리에요(로봇/방산/조선) | 유진투자증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44459&page=1) |
-| 6 | [IBKS Daily] 인터넷/게임 | IBK투자증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44458&page=1) |
-| 7 | 편의점, 의미있는 회복 국면 진입 | 신한투자증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44457&page=1) |
-| 8 | 서프라이즈, 모든 사업부의 진보 | 신한투자증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44456&page=1) |
-| 9 | ESG 스냅샷 - 한국형 자발적 탄소시장 얼라이.. | SK증권 | 2026-05-08 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44455&page=1) |
+| 1 | **건설** | 5월: 계속되는 중동 재건 테마 | 하나증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44463&page=1) |
+| 2 | **유틸리티** | PGSA와 해협 개방의 간극 | 하나증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44462&page=1) |
+| 3 | **철강금속** | 신한 자동차/철강금속 Weekly(2026.05.08) | 신한투자증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44461&page=1) |
+| 4 | **자동차** | 현대차/기아 4월 글로벌 판매 | 유진투자증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44460&page=1) |
+| 5 | **기타** | 안녕하세요 데일리에요(로봇/방산/조선) | 유진투자증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44459&page=1) |
+| 6 | **게임** | [IBKS Daily] 인터넷/게임 | IBK투자증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44458&page=1) |
+| 7 | **유통** | 편의점, 의미있는 회복 국면 진입 | 신한투자증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44457&page=1) |
+| 8 | **조선** | 서프라이즈, 모든 사업부의 진보 | 신한투자증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44456&page=1) |
+| 9 | **기타** | ESG 스냅샷 - 한국형 자발적 탄소시장 얼라이.. | SK증권 | [원문보기](https://finance.naver.com/research/industry_read.naver?nid=44455&page=1) |
 
 ## 3. 리포트별 상세 분석
 
@@ -45,7 +45,7 @@
   - **인테리어/건자재(LX하우시스/한샘)**: LX하우시스의 1분기 실적에서 확인된 B2C 부문의 턴어라운드는 주택 매매 거래량 회복과 밀접한 상관관계를 가짐. 한샘과 현대리바트의 후속 실적 발표에서 이러한 추세가 재확인될 경우, 인테리어 업종 전반의 연간 EPS 추정치 상향 조정이 불가피할 것으로 보임.
 
 #### 🔑 핵심 키워드
-`하이테크 인프라 가속화` `중동 재건 수혜` `GPM 개선 로직` `B2C 인테리어 턴어라운드` `원가율 리스크 관리`
+**하이테크 인프라 가속화, 중동 재건 수혜, GPM 개선 로직, B2C 인테리어 턴어라운드, 원가율 리스크 관리**
 
 
 ---
@@ -66,7 +66,7 @@
   - **한국전력**: 원가 부담 증가로 인해 단기적 재무 지표 개선은 더딜 수 있으나, 전력망 현대화 투자와 관련된 정책적 지원 여부가 장기적 관전 포인트임.
 
 #### 🔑 핵심 키워드
-`PSGA 공급망 리스크` `LNG 도입 단가 변동` `AI 전력 인프라 수요` `분산형 전원 가치` `유틸리티 리레이팅`
+**PSGA 공급망 리스크, LNG 도입 단가 변동, AI 전력 인프라 수요, 분산형 전원 가치, 유틸리티 리레이팅**
 
 
 ---
@@ -96,7 +96,7 @@
   - **현대모비스**: 완성차의 고부가가치 차종 판매 확대에 따른 모듈 및 핵심 부품 공급 단가 상승 수혜가 예상됨. A/S 부문의 안정적인 캐시카우 역할도 긍정적임.
 
 #### 🔑 핵심 키워드
-`인도 시장 성장 모멘텀` `HEV 수익성 방어` `EV 캐즘 극복 전략` `판매 믹스 고도화` `주주환원 기대감`
+**인도 시장 성장 모멘텀, HEV 수익성 방어, EV 캐즘 극복 전략, 판매 믹스 고도화, 주주환원 기대감**
 
 
 ---
@@ -116,7 +116,7 @@
   - **HD현대**: 미국 현지 조선소 확보를 통해 미 해군 함정 MRO 시장 진출의 교두보를 마련함. 이는 장기적으로 미국 내 공공 발주 사업 참여 가능성을 열어주는 중요한 이벤트이며, 조선 부문의 밸류에이션 리레이팅 요인임.
 
 #### 🔑 핵심 키워드
-`K-방산 2.0 진화` `미국 조선 MRO 진출` `로봇 부품 국산화` `영업레버리지 효과` `무인 체계 패러다임`
+**K-방산 2.0 진화, 미국 조선 MRO 진출, 로봇 부품 국산화, 영업레버리지 효과, 무인 체계 패러다임**
 
 
 ---
@@ -137,7 +137,7 @@
   - **크래프톤**: 배틀그라운드 IP의 글로벌 매출이 여전히 견조하며, AI 기술을 접목한 신작 라인업이 하반기부터 본격 가동될 예정임. 게임 업종 내에서 가장 뛰어난 현금 창출 능력과 밸류에이션 매력을 보유함.
 
 #### 🔑 핵심 키워드
-`에이전틱 AI 수익화` `광고 ROAS 개선` `게임 개발 효율화` `플랫폼 펀더멘탈 회복` `AI 매출 가시성`
+**에이전틱 AI 수익화, 광고 ROAS 개선, 게임 개발 효율화, 플랫폼 펀더멘탈 회복, AI 매출 가시성**
 
 
 ---
@@ -180,5 +180,5 @@
 ## 6. 출처
 
 - 수집 대상일: 2026-05-08
-- 보고서 생성일시: 2026-05-10 19:48 KST
+- 보고서 생성일시: 2026-05-10 19:50 KST
 - 네이버증권 산업분석 페이지: https://finance.naver.com/research/industry_list.naver
